@@ -38,3 +38,6 @@
     display: flex;
     flex-wrap: wrap;
 }
+.pos-relative {
+    position: relative;
+}

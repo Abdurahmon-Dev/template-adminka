@@ -3,7 +3,7 @@
     <section class="d-flex">
       <div class="wand"></div>
       <h2>Report</h2>
-      <div class="block">
+      <!-- <div class="block">
         <el-date-picker
           size="medium"
           v-model="value1"
@@ -15,7 +15,7 @@
     <select class="department" name="" placeholder="hello">
       <option value="">nma ghap</option>
       <option value="">zato</option>
-    </select>
+    </select> -->
     </section>
     
     

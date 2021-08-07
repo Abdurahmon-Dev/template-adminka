@@ -14,7 +14,7 @@ export default {
    
   },
   mounted() {
-    this.$router.push('/statistics')
+    this.$router.push('/Admin')
   },
   methods: {
     

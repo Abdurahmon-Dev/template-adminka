@@ -87,6 +87,9 @@
 
 <script>
 export default {
+  mounted() {
+    this.$router.push('/realtime')
+  },
   methods: {
     Toggle(openBar,rotate) {
       document.querySelector(openBar).classList.toggle('activeBar');
