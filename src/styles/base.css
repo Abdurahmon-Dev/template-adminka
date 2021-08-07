@@ -1,0 +1,40 @@
+.d-flex {
+    display: flex;
+}
+.jus-space-between {
+    justify-content: space-between;
+}
+.jus-center {
+    justify-content: center;
+}
+.align-items-center {
+    align-items: center;
+}
+.flex-start {
+    justify-content: flex-start;
+}
+.flex-end {
+    justify-content: flex-end;
+}
+.gap-5 {
+    gap: 30%;
+}
+.gap-4 {
+    gap: 20%;
+}
+.gap-3 {
+    gap: 10%;
+}
+.gap-2 {
+    gap: 5%;
+}
+.gap-1 {
+    gap: 2%;
+}
+.d-block {
+    display: block !important;
+}
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
